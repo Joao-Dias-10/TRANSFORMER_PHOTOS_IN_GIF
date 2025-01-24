@@ -29,7 +29,7 @@ image_paths = [
     rf"C:\TRANSFORMER_PHOTOS_IN_GIF\assets\png\img_2.png", 
     rf"C:\TRANSFORMER_PHOTOS_IN_GIF\assets\png\img_3.png"
 ]
-output_gif_path = "output.gif"  
+output_gif_path = rf"C:\TRANSFORMER_PHOTOS_IN_GIF\assets\gif\output.gif"  
 
 
 if __name__ == "__main__":
